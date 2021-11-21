@@ -1,0 +1,20 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+
+int main(int argc, char *argv[]) {
+	
+	 printf("*************KISI BILGI***********");
+	 printf("\n\n");
+     printf("Adi:  Baran\n");
+     printf("Soyadi:  Yucedag\n");
+     printf("Meslek :  Ogretmen \n");
+     printf("Maas :  2500 TL\n");
+     printf("Semt : Bartin \n\n");
+     printf("*********************************");
+
+	
+	
+	return 0;
+}
